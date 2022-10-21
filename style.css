@@ -1,0 +1,51 @@
+body {
+	
+}
+
+#farmacia {
+	width: 100%;
+
+}
+
+.principal{
+	background: #CCCCCC
+}
+
+h1{
+	text-align: center
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+	text-align: center
+}
+
+ em strong{
+	color: #FF0000
+}
+
+.itens {
+	font-style: italic
+}
+
+.beneficios {
+	background: #FFFFFF;
+
+}
+
+
+h2 {
+	text-align: center ;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	widht: 10%;
+	margin-right: 15%;
+}
+
+
